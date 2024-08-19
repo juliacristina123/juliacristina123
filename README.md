@@ -1,9 +1,9 @@
 - Oi, sou a Julia Cristina;
 - Estou interessada em não reprovar em Pensaento Coputacional kk;
-- Atualemnte estou aprendendo sobre música;
+- Atualmente estou aprendendo sobre música;
 - Podem falar comigo pelo e-mail;
-- Pronomes: ela;
-- Fato aleatório: gosto de ler.
+- Pronomes: ela/dela;
+- Fato aleatório: gosto de ler e de cachorros.
 
 <!---
 juliacristina123/juliacristina123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
